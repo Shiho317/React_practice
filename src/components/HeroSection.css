@@ -1,0 +1,24 @@
+.hero-container {
+  background-color: #363636;
+  height: 100vh;
+  width: 100%;
+}
+
+.hero-container .hero-image {
+  width: 100%;
+}
+
+.hero-container h1 {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  font-size: 35px;
+  text-align: center;
+}
+
+.hero-container .hero-btns {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+}
+/*# sourceMappingURL=HeroSection.css.map */
